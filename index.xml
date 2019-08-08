@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ann Arbor Gophers on A2Go Golang meetup</title>
+    <title>A2Go for Ann Arbor Gophers on A2Go Golang meetup</title>
     <link>https://a2go.github.io/</link>
-    <description>Recent content in Ann Arbor Gophers on A2Go Golang meetup</description>
+    <description>Recent content in A2Go for Ann Arbor Gophers on A2Go Golang meetup</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Jul 2019 15:28:25 +0100</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 09 May 2019 15:28:25 +0100</pubDate>
       
       <guid>https://a2go.github.io/about/</guid>
-      <description>About</description>
+      <description>About Stuff and Other Stuff, but also other stuff</description>
     </item>
     
   </channel>
