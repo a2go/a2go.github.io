@@ -29,4 +29,4 @@ Your Hugo source files and the generated content are published into two differen
     * Press <kbd>Ctrl</kbd>+<kbd>C</kbd> to kill the server
     * cd public; git add -A; git commit -am "New Update"; git push; cd ..; git add -A; git commit -am "New Update"; git push
 
-
+7. Next get bored of so many steps. Automate it by adding a [github action](https://github.com/StevenACoffman/hugo-deploy-gh-org-pages) for maintaining peak flavor and never manually touch this repository again.
